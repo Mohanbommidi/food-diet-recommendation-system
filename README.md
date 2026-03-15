@@ -78,26 +78,24 @@ This project helps users generate meal plans tailored to their **age, height, we
 
 ## 📂 Project Structure
 
+```
 Food-Diet-Recommendation-System/
-
 │
 ├── FastAPI_Backend/        # Backend with FastAPI + ML model
 │   ├── main.py             # API routes
 │   ├── model.pkl           # Trained ML model
 │   └── requirements.txt
-
 │
 ├── Streamlit_Frontend/     # Streamlit UI
 │   ├── Hello.py            # Main Streamlit app
 │   └── pages/              # Additional UI pages
-
 │
 ├── Data/                   # Food dataset
 │   └── food_data.csv
-
 │
 ├── README.md               # Project documentation
 └── LICENSE                 # License file
+```
 
 ---
 
